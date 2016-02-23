@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentacorbei00corvgoog_0007.png"; bbox 0 0 3319 5242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1044 842 1982 1054">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1044 842 1982 1054">
+     <span class='ocr_line' id='line_1_1' title="bbox 1044 842 1982 1054; baseline 0.001 -82"><span class='ocrx_word' id='word_1_1' title='bbox 1044 842 1982 1054; x_wconf 72' lang='lat' dir='ltr'><strong>MONUMENTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 405 1486 2620 1681">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 405 1486 2620 1681">
+     <span class='ocr_line' id='line_1_2' title="bbox 405 1486 2620 1681; baseline -0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 405 1486 2620 1681; x_wconf 81' lang='lat' dir='ltr'><strong>CORBEIENSIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1385 2304 1642 2360">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1385 2304 1642 2360">
+     <span class='ocr_line' id='line_1_3' title="bbox 1385 2304 1642 2360; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1385 2304 1642 2360; x_wconf 85' lang='lat' dir='ltr'>EDIDIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1039 2809 1986 2938">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1039 2809 1986 2938">
+     <span class='ocr_line' id='line_1_4' title="bbox 1039 2809 1986 2938; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 1039 2842 1598 2938; x_wconf 81' lang='lat' dir='ltr'>PHILIPPUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1663 2809 1986 2937; x_wconf 69' lang='lat' dir='ltr'>JAFFE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1187 4096 1823 4108">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1187 4096 1823 4108">
+     <span class='ocr_line' id='line_1_5' title="bbox 1187 4096 1823 4108; baseline 0 1134"><span class='ocrx_word' id='word_1_6' title='bbox 1187 4096 1823 4108; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 959 4236 2057 4442">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 959 4236 2057 4442">
+     <span class='ocr_line' id='line_1_6' title="bbox 1289 4236 1729 4315; baseline -0.005 0"><span class='ocrx_word' id='word_1_7' title='bbox 1289 4236 1729 4315; x_wconf 81' lang='lat' dir='ltr'>BEROLINI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 959 4384 2057 4442; baseline -0.002 0"><span class='ocrx_word' id='word_1_8' title='bbox 959 4384 2057 4442; x_wconf 70' lang='lat' dir='ltr'>AAAAAAAAAAAAAA</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

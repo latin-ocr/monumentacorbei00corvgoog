@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentacorbei00corvgoog_0457.png"; bbox 0 0 3319 5242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 915 421 2578 488">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 915 421 2578 488">
+     <span class='ocr_line' id='line_1_1' title="bbox 915 421 2578 488; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 915 440 1213 488; x_wconf 72' lang='lat' dir='ltr'>wmALDI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1255 439 1627 488; x_wconf 62' lang='lat' dir='ltr'><strong>num-omn.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1673 438 1779 484; x_wconf 82' lang='lat'><strong>31⁷.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1816 438 1922 484; x_wconf 78' lang='lat'>818.</span> <span class='ocrx_word' id='word_1_5' title='bbox 2449 421 2578 487; x_wconf 82' lang='lat'><strong>447</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 245 579 2911 712">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 245 579 2911 712">
+     <span class='ocr_line' id='line_1_2' title="bbox 245 579 2911 712; baseline 0 -67"><span class='ocrx_word' id='word_1_6' title='bbox 245 599 355 646; x_wconf 85' lang='lat' dir='ltr'><strong>seu</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 410 579 684 646; x_wconf 81' lang='lat' dir='ltr'><strong>alienum</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 743 603 781 647; x_wconf 79' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_9' title='bbox 831 581 1139 648; x_wconf 82' lang='lat' dir='ltr'><strong>desiderio</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1184 580 1470 647; x_wconf 83' lang='lat' dir='ltr'><strong>eoelestis</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1517 581 1791 667; x_wconf 75' lang='lat' dir='ltr'>patriae,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1849 600 2100 667; x_wconf 79' lang='lat' dir='ltr'><strong>preesse</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2146 587 2210 648; x_wconf 83' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2217 580 2581 711; x_wconf 33' lang='lat' dir='ltr'><strong>’providere</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2602 586 2741 712; x_wconf 49' lang='lat' dir='ltr'><strong>gg?</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 2760 602 2831 706; x_wconf 52' lang='grc' dir='ltr'><strong>Ξ</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2862 611 2911 620; x_wconf 92' lang='grc'>-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

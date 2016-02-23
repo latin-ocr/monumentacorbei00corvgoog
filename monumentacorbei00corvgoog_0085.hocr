@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentacorbei00corvgoog_0085.png"; bbox 0 0 3319 5242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 968 393 2615 460">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 968 393 2615 460">
+     <span class='ocr_line' id='line_1_1' title="bbox 968 393 2615 460; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 968 410 1368 459; x_wconf 68' lang='lat' dir='ltr'><strong>cATALoGns</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1415 410 1926 459; x_wconf 66' lang='lat' dir='ltr'><strong>conflamusmu</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2534 393 2615 460; x_wconf 82' lang='grc'>71</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 549 2618 869">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 549 2618 869">
+     <span class='ocr_line' id='line_1_2' title="bbox 262 549 2618 637; baseline 0 -20"><span class='ocrx_word' id='word_1_4' title='bbox 262 549 606 635; x_wconf 77' lang='lat' dir='ltr'><strong>Robertus,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 657 551 1058 636; x_wconf 79' lang='lat' dir='ltr'>Adalbertus,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1104 552 1527 636; x_wconf 83' lang='lat' dir='ltr'><strong>Bernhardus‚</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1573 551 1764 637; x_wconf 82' lang='lat' dir='ltr'>Buso,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1811 551 2137 635; x_wconf 74' lang='lat' dir='ltr'>Radulfu8‚</span> <span class='ocrx_word' id='word_1_9' title='bbox 2183 550 2403 635; x_wconf 88' lang='lat' dir='ltr'>Liuzo‚</span> <span class='ocrx_word' id='word_1_10' title='bbox 2445 550 2618 618; x_wconf 79' lang='lat' dir='ltr'>Wal-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 260 666 2615 753; baseline 0.001 -19"><span class='ocrx_word' id='word_1_11' title='bbox 260 673 454 750; x_wconf 68' lang='lat' dir='ltr'>teruS,</span> <span class='ocrx_word' id='word_1_12' title='bbox 501 666 908 753; x_wconf 78' lang='lat' dir='ltr'>BeringeruS,</span> <span class='ocrx_word' id='word_1_13' title='bbox 956 666 1338 752; x_wconf 75' lang='lat' dir='ltr'>Gerhardu8‚</span> <span class='ocrx_word' id='word_1_14' title='bbox 1383 667 1725 752; x_wconf 80' lang='lat' dir='ltr'><strong>Adalbem,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1771 668 2183 753; x_wconf 75' lang='lat' dir='ltr'>Engelherus,</span> <span class='ocrx_word' id='word_1_16' title='bbox 2230 667 2615 752; x_wconf 80' lang='lat' dir='ltr'>Folomarus,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 258 782 2613 869; baseline 0 -19"><span class='ocrx_word' id='word_1_17' title='bbox 258 782 655 868; x_wconf 73' lang='lat' dir='ltr'><strong>FolcmaruS‚</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 702 783 1084 867; x_wconf 80' lang='lat' dir='ltr'>GerharduS,</span> <span class='ocrx_word' id='word_1_19' title='bbox 1116 783 1454 868; x_wconf 73' lang='lat' dir='ltr'>walterae,</span> <span class='ocrx_word' id='word_1_20' title='bbox 1505 782 1853 869; x_wconf 73' lang='lat' dir='ltr'>GerwiguS,</span> <span class='ocrx_word' id='word_1_21' title='bbox 1899 784 2250 867; x_wconf 75' lang='lat' dir='ltr'>HunolduS,</span> <span class='ocrx_word' id='word_1_22' title='bbox 2285 782 2613 868; x_wconf 74' lang='lat' dir='ltr'>GerolduS,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

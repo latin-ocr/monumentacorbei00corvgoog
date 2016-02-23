@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentacorbei00corvgoog_0431.png"; bbox 0 0 3319 5242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1030 466 2611 532">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1030 466 2611 532">
+     <span class='ocr_line' id='line_1_1' title="bbox 1030 466 2611 532; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1030 481 1329 529; x_wconf 73' lang='lat' dir='ltr'>wmALm</span> <span class='ocrx_word' id='word_1_2' title='bbox 1373 481 1705 530; x_wconf 73' lang='lat' dir='ltr'>EPISTOLA</span> <span class='ocrx_word' id='word_1_3' title='bbox 1750 482 1857 528; x_wconf 76' lang='lat'>294.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2483 466 2611 532; x_wconf 85' lang='lat'>421</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 265 623 2956 828">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 265 623 2956 828">
+     <span class='ocr_line' id='line_1_2' title="bbox 267 623 2868 711; baseline -0.001 -20"><span class='ocrx_word' id='word_1_5' title='bbox 267 625 627 691; x_wconf 75' lang='lat' dir='ltr'><strong>versatione</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 686 623 861 708; x_wconf 81' lang='lat' dir='ltr'>digni</span> <span class='ocrx_word' id='word_1_7' title='bbox 923 624 1295 708; x_wconf 80' lang='lat' dir='ltr'>existerent,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1366 645 1521 710; x_wconf 85' lang='lat' dir='ltr'>quos</span> <span class='ocrx_word' id='word_1_9' title='bbox 1580 623 1840 711; x_wconf 81' lang='lat' dir='ltr'>speciali</span> <span class='ocrx_word' id='word_1_10' title='bbox 1896 624 2314 692; x_wconf 79' lang='lat' dir='ltr'>fraternitatis</span> <span class='ocrx_word' id='word_1_11' title='bbox 2371 626 2620 693; x_wconf 77' lang='lat' dir='ltr'>vinculo</span> <span class='ocrx_word' id='word_1_12' title='bbox 2728 630 2868 688; x_wconf 86' lang='lat'>1150</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 265 704 2956 828; baseline 0.002 -23"><span class='ocrx_word' id='word_1_13' title='bbox 265 720 541 806; x_wconf 63' lang='lat' dir='ltr'><strong>fratruni</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 584 740 845 825; x_wconf 79' lang='lat' dir='ltr'>collegio</span> <span class='ocrx_word' id='word_1_15' title='bbox 892 742 1149 809; x_wconf 83' lang='lat' dir='ltr'>deberet</span> <span class='ocrx_word' id='word_1_16' title='bbox 1182 762 1540 826; x_wconf 83' lang='lat' dir='ltr'>aggregare.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1603 741 1842 808; x_wconf 89' lang='lat' dir='ltr'>Verum</span> <span class='ocrx_word' id='word_1_18' title='bbox 1868 742 1997 828; x_wconf 68' lang='lat' dir='ltr'>ipsi</span> <span class='ocrx_word' id='word_1_19' title='bbox 2039 762 2170 807; x_wconf 90' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_20' title='bbox 2202 741 2408 808; x_wconf 84' lang='lat' dir='ltr'>solum</span> <span class='ocrx_word' id='word_1_21' title='bbox 2438 764 2620 811; x_wconf 88' lang='lat' dir='ltr'>enor-</span> <span class='ocrx_word' id='word_1_22' title='bbox 2648 705 2774 766; x_wconf 50' lang='lat' dir='ltr'>sm*</span> <span class='ocrx_word' id='word_1_23' title='bbox 2789 730 2839 739; x_wconf 68' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_24' title='bbox 2854 704 2956 754; x_wconf 56' lang='grc' dir='ltr'>ω’</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
